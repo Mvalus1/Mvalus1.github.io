@@ -7,7 +7,7 @@ color: [red];
 text-align: center;
 }
 .assign {
-  background-color: DarkCyan;
+  background-color: [DarkCyan];
   margin: 10px;
   padding: 10px:
   display: flex;
