@@ -1,9 +1,9 @@
 body {
-background: [Salmon];
+background: [solid salmon];
 font-family: sans-serif;
 }
 h1 {
-color: [red];
+color: [red[;
 text-align: center;
 }
 a {
